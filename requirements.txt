@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn==1.0.2
+Flask
+seaborn
+dill
+xgboost
+clearml
+dvc
+-e .

@@ -1,0 +1,5 @@
+outs:
+- md5: 930c4bfb7c83c7d26cf624aa8ee895f1
+  size: 108221
+  hash: md5
+  path: mobile_price_predictor.csv

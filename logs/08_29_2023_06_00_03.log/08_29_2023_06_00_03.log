@@ -1,0 +1,6 @@
+[2023-08-29 06:00:04,045] 187 werkzeug - WARNING -  * Debugger is active!
+[2023-08-29 06:00:04,062] 187 werkzeug - INFO -  * Debugger PIN: 857-353-154
+[2023-08-29 06:01:43,362] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 06:01:43] "GET / HTTP/1.1" 200 -
+[2023-08-29 06:01:44,210] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 06:01:44] "GET /static/css/style.css HTTP/1.1" 200 -
+[2023-08-29 06:01:44,284] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 06:01:44] "GET /static/image/images.jpg HTTP/1.1" 200 -
+[2023-08-29 06:01:44,411] 187 werkzeug - INFO - 127.0.0.1 - - [29/Aug/2023 06:01:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
